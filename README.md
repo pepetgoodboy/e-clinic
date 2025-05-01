@@ -101,6 +101,30 @@ http://localhost:8000
 
 ---
 
+## ✅ Demo Akun (Email - Password)
+
+Role Admin
+Admin 1 = admin@gmail.com - admin123
+Admin 2 = admin2@gmail.com - admin123
+Admin 3 = admin3@gmail.com - admin123
+
+Role Petugas
+Petugas 1 = petugas@gmail.com - petugas123
+Petugas 2 = petugas2@gmail.com - petugas123
+
+Role Dokter
+Dokter 1 = dokter@gmail.com - dokter123
+Dokter 2 = dokter2@gmail.com - dokter123
+Dokter 3 = dokter3@gmail.com - dokter123
+
+Role Kasir
+Kasir 1 = kasir@gmail.com - kasir123
+Kasir 2 = kasir2@gmail.com - kasir123
+Kasir 3 = kasir3@gmail.com - kasir123
+
+
+---
+
 ## 📊 Preview Dashboard (dengan Chart.js)
 
 Dashboard aplikasi menampilkan visualisasi data klinik secara real-time menggunakan Chart.js, termasuk grafik kunjungan pasien, data pemeriksaan, dan statistik lainnya.
